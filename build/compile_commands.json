@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/zhang/Desktop/cpp_vscode/build",
+  "command": "E:\\i686-13.1.0-release-win32-dwarf-msvcrt-rt_v11-rev1\\mingw32\\bin\\g++.exe   -O3 -DNDEBUG -std=gnu++20 -o CMakeFiles\\My.dir\\source\\mian.cpp.obj -c C:\\Users\\zhang\\Desktop\\cpp_vscode\\source\\mian.cpp",
+  "file": "C:/Users/zhang/Desktop/cpp_vscode/source/mian.cpp",
+  "output": "CMakeFiles/My.dir/source/mian.cpp.obj"
+}
+]

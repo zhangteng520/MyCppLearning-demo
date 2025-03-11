@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\My.dir/objects.a
+E:\i686-13.1.0-release-win32-dwarf-msvcrt-rt_v11-rev1\mingw32\bin\ar.exe qc CMakeFiles\My.dir/objects.a @CMakeFiles\My.dir\objects1.rsp
+E:\i686-13.1.0-release-win32-dwarf-msvcrt-rt_v11-rev1\mingw32\bin\g++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\My.dir/objects.a -Wl,--no-whole-archive -o My.exe -Wl,--out-implib,libMy.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\My.dir\linkLibs.rsp
